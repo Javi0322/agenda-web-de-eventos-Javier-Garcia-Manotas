@@ -20,10 +20,16 @@ La aplicación permite buscar y filtrar eventos, ver el detalle de cada uno y ma
 ### Pasos para ejecutar
 
 1. Instalar las dependencias del proyecto:
+
+```bash
    npm install
+```
 
 2. Ejecutar la aplicación:
+
+```bash
    npm run dev
+```
 
 3. Abrir en el navegador la URL:
    http://localhost:5173/
