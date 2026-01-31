@@ -58,7 +58,7 @@ function App() {
     setEventoSeleccionado(null)
   }
 
-  // ---- UI común (cabecera) ----
+  // ---- Cabecera ----
   const Header = (
     <header className='header'>
       <div
@@ -103,7 +103,7 @@ function App() {
     )
   }
 
-  // ---- Vista DETALLE (cuando estás en eventos y seleccionas uno) ----
+  // ---- Vista DETALLE  ----
   if (vista === 'eventos' && eventoSeleccionado) {
     return (
       <div className='page'>
@@ -120,7 +120,7 @@ function App() {
     )
   }
 
-  // ---- Vista FAVORITOS (pantalla aparte) ----
+  // ---- Vista FAVORITOS ----
   if (vista === 'favoritos') {
     return (
       <div className='page'>
@@ -132,7 +132,6 @@ function App() {
             onQuitar={quitarDeFavoritos}
             onVolver={irAEventos}
             onVerDetalle={(evento) => {
-              // Si quieres permitir entrar al detalle desde favoritos
               setVista('eventos')
               setEventoSeleccionado(evento)
             }}
@@ -142,7 +141,7 @@ function App() {
     )
   }
 
-  // ---- Vista EVENTOS (principal) ----
+  // ---- Vista EVENTOS ----
   const texto = busqueda.toLowerCase()
 
   const eventosFiltrados = eventos.filter((e) => {
