@@ -1,0 +1,141 @@
+[
+  {
+    "id": 1,
+
+    "titulo": "Taller exprés: Monta tu PC Gaming",
+
+    "categoria": "Taller",
+
+    "fecha": "2026-02-03",
+
+    "lugar": "Aula Taller TIC",
+
+    "descripcion": "Aprende a identificar componentes, montar un equipo básico y evitar errores típicos. Recomendado para principiantes."
+  },
+
+  {
+    "id": 2,
+
+    "titulo": "Charla: Ciberseguridad en redes sociales (sin drama)",
+
+    "categoria": "Charla",
+
+    "fecha": "2026-02-05",
+
+    "lugar": "Salón de actos",
+
+    "descripcion": "Privacidad, phishing, contraseñas y estafas reales. Consejos prácticos para moverte seguro por Instagram, TikTok y WhatsApp."
+  },
+
+  {
+    "id": 3,
+
+    "titulo": "Torneo rápido: Rocket League 2v2",
+
+    "categoria": "Torneo",
+
+    "fecha": "2026-02-10",
+
+    "lugar": "Aula Informática 2",
+
+    "descripcion": "Formato eliminatorio. Trae tu compañero/a y compite por premios sorpresa. Puntualidad obligatoria."
+  },
+
+  {
+    "id": 4,
+
+    "titulo": "Excursión: Visita a empresa tecnológica local",
+
+    "categoria": "Excursión",
+
+    "fecha": "2026-02-12",
+
+    "lugar": "Salida desde la puerta principal",
+
+    "descripcion": "Visita guiada por departamentos y charla con personal de desarrollo. Plazas limitadas, inscripción previa."
+  },
+
+  {
+    "id": 5,
+
+    "titulo": "Taller: Aprende Git en 45 minutos",
+
+    "categoria": "Taller",
+
+    "fecha": "2026-02-17",
+
+    "lugar": "Aula Informática 1",
+
+    "descripcion": "Comandos básicos, repositorios, ramas y cómo entregar trabajos sin líos. Trae tu portátil si puedes."
+  },
+
+  {
+    "id": 6,
+
+    "titulo": "Charla: IA para estudiar mejor (y no copiar peor)",
+
+    "categoria": "Charla",
+
+    "fecha": "2026-02-19",
+
+    "lugar": "Biblioteca",
+
+    "descripcion": "Cómo usar herramientas de IA para resumir, planificar y entender temas. Buenas prácticas y errores típicos."
+  },
+
+  {
+    "id": 7,
+
+    "titulo": "Torneo: Ajedrez rápido (10+0)",
+
+    "categoria": "Torneo",
+
+    "fecha": "2026-02-24",
+
+    "lugar": "Aula de usos múltiples",
+
+    "descripcion": "Partidas rápidas, sistema suizo. No hace falta ser pro: ven a jugar y aprender."
+  },
+
+  {
+    "id": 8,
+
+    "titulo": "Taller: Diseño de CV y LinkedIn para FP",
+
+    "categoria": "Taller",
+
+    "fecha": "2026-02-26",
+
+    "lugar": "Aula 3",
+
+    "descripcion": "Cómo presentar proyectos, prácticas y habilidades. Plantillas, ejemplos reales y revisión rápida del perfil."
+  },
+
+  {
+    "id": 9,
+
+    "titulo": "Charla: ¿Qué es DAW y qué se hace en el trabajo?",
+
+    "categoria": "Charla",
+
+    "fecha": "2026-03-03",
+
+    "lugar": "Salón de actos",
+
+    "descripcion": "Explicación clara de front, back, bases de datos, herramientas y cómo es el día a día en un equipo de desarrollo."
+  },
+
+  {
+    "id": 10,
+
+    "titulo": "Excursión: Museo interactivo de ciencia y tecnología",
+
+    "categoria": "Excursión",
+
+    "fecha": "2026-03-05",
+
+    "lugar": "Salida desde la estación (08:30)",
+
+    "descripcion": "Visita con actividades prácticas relacionadas con electrónica, programación y ciencia. Lleva autorización firmada."
+  }
+]
